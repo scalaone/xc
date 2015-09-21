@@ -5,5 +5,7 @@
 
 init db
 
+```
 create table haha(id varchar(20), name varchar(20));
 insert into haha values('a', 'b');
+```
